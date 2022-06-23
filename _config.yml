@@ -4,3 +4,4 @@ plugins:
 
 title: [AtonCode]
 description: [Personal blog]
+show_downloads: false
