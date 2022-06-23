@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # About this blog
 
 Hello 👋 I am Aton
