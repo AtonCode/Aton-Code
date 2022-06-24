@@ -12,12 +12,12 @@ Second you only need to run this code:
 [Full tecnical manual](https://github.com/Nyr/openvpn-install)
 
 openVPN
-```
-wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
+```console
+$ wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
 ```
 WireGuard
-```
-wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
+```console
+$ wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
 
 ```
 Finaly you need to make certificates for all cliente you can to connect. If you use OpenVPN you need install
