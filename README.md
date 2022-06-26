@@ -27,5 +27,7 @@ the openVPN client in you computer.
 
 [Full tecnical manual](https://github.com/sunknudsen/privacy-guides/tree/master/how-to-configure-self-hosted-vpn-kill-switch-using-pf-firewall-on-macos)
 
+## How to make QR codes
+
 
 [Eva blog](./Eva.html)
