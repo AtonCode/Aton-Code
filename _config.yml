@@ -5,3 +5,5 @@ plugins:
 title: Aton Code
 description: Personal blog
 show_downloads: false
+
+theme: jekyll-theme-hacker
